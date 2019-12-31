@@ -1,0 +1,212 @@
+{
+  "ShowInTown": false,
+  "ShowES": true,
+  "ShowEnemies": true,
+  "Players": {
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "Color": "008000ff",
+    "Outline": "00000000",
+    "BackGround": "000000ff",
+    "Under10Percent": "ffffffff",
+    "PercentTextColor": "ffffffff",
+    "HealthTextColor": "ffffffff",
+    "HealthTextColorUnder10Percent": "ffff00ff",
+    "ShowPercents": false,
+    "ShowHealthText": false,
+    "TextSize": {
+      "Value": 15
+    },
+    "ShowFloatingCombatDamage": false,
+    "FloatingCombatDamageColor": "ffff00ff",
+    "FloatingCombatHealColor": "00ff00ff",
+    "FloatingCombatTextSize": {
+      "Value": 15
+    },
+    "FloatingCombatStackSize": {
+      "Value": 1
+    },
+    "Enable": true
+  },
+  "Minions": {
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "Color": "90ee90ff",
+    "Outline": "00000000",
+    "BackGround": "000000ff",
+    "Under10Percent": "ffffffff",
+    "PercentTextColor": "ffffffff",
+    "HealthTextColor": "ffffffff",
+    "HealthTextColorUnder10Percent": "ffff00ff",
+    "ShowPercents": false,
+    "ShowHealthText": false,
+    "TextSize": {
+      "Value": 15
+    },
+    "ShowFloatingCombatDamage": false,
+    "FloatingCombatDamageColor": "ffff00ff",
+    "FloatingCombatHealColor": "00ff00ff",
+    "FloatingCombatTextSize": {
+      "Value": 15
+    },
+    "FloatingCombatStackSize": {
+      "Value": 1
+    },
+    "Enable": true
+  },
+  "NormalEnemy": {
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "Color": "ff0000ff",
+    "Outline": "00000000",
+    "BackGround": "000000ff",
+    "Under10Percent": "ffffffff",
+    "PercentTextColor": "66ff66ff",
+    "HealthTextColor": "ffffffff",
+    "HealthTextColorUnder10Percent": "ffff00ff",
+    "ShowPercents": false,
+    "ShowHealthText": false,
+    "TextSize": {
+      "Value": 15
+    },
+    "ShowFloatingCombatDamage": false,
+    "FloatingCombatDamageColor": "ffff00ff",
+    "FloatingCombatHealColor": "00ff00ff",
+    "FloatingCombatTextSize": {
+      "Value": 15
+    },
+    "FloatingCombatStackSize": {
+      "Value": 1
+    },
+    "Enable": true
+  },
+  "MagicEnemy": {
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "Color": "ff0000ff",
+    "Outline": "8888ffff",
+    "BackGround": "000000ff",
+    "Under10Percent": "ffffffff",
+    "PercentTextColor": "66ff99ff",
+    "HealthTextColor": "ffffffff",
+    "HealthTextColorUnder10Percent": "ffff00ff",
+    "ShowPercents": false,
+    "ShowHealthText": false,
+    "TextSize": {
+      "Value": 15
+    },
+    "ShowFloatingCombatDamage": false,
+    "FloatingCombatDamageColor": "ffff00ff",
+    "FloatingCombatHealColor": "00ff00ff",
+    "FloatingCombatTextSize": {
+      "Value": 15
+    },
+    "FloatingCombatStackSize": {
+      "Value": 1
+    },
+    "Enable": true
+  },
+  "RareEnemy": {
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "Color": "ff0000ff",
+    "Outline": "ffff77ff",
+    "BackGround": "000000ff",
+    "Under10Percent": "ffffffff",
+    "PercentTextColor": "66ff99ff",
+    "HealthTextColor": "ffffffff",
+    "HealthTextColorUnder10Percent": "ffff00ff",
+    "ShowPercents": false,
+    "ShowHealthText": false,
+    "TextSize": {
+      "Value": 15
+    },
+    "ShowFloatingCombatDamage": false,
+    "FloatingCombatDamageColor": "ffff00ff",
+    "FloatingCombatHealColor": "00ff00ff",
+    "FloatingCombatTextSize": {
+      "Value": 15
+    },
+    "FloatingCombatStackSize": {
+      "Value": 1
+    },
+    "Enable": true
+  },
+  "UniqueEnemy": {
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "Color": "ff0000ff",
+    "Outline": "ffa500ff",
+    "BackGround": "000000ff",
+    "Under10Percent": "ffffffff",
+    "PercentTextColor": "66ff99ff",
+    "HealthTextColor": "ffffffff",
+    "HealthTextColorUnder10Percent": "ffff00ff",
+    "ShowPercents": false,
+    "ShowHealthText": false,
+    "TextSize": {
+      "Value": 15
+    },
+    "ShowFloatingCombatDamage": false,
+    "FloatingCombatDamageColor": "ffff00ff",
+    "FloatingCombatHealColor": "00ff00ff",
+    "FloatingCombatTextSize": {
+      "Value": 15
+    },
+    "FloatingCombatStackSize": {
+      "Value": 1
+    },
+    "Enable": true
+  },
+  "ShowDebuffPanel": false,
+  "DebuffPanelIconSize": {
+    "Value": 20
+  },
+  "GlobalZ": {
+    "Value": -100
+  },
+  "PlayerZ": {
+    "Value": -100
+  },
+  "HideOverUi": true,
+  "ImGuiRender": false,
+  "LimitDrawDistance": {
+    "Value": 133
+  },
+  "Rounding": {
+    "Value": 0.0
+  },
+  "MultiThreading": false,
+  "MultiThreadingCountEntities": {
+    "Value": 10
+  },
+  "ShowMinionOnlyBelowHp": {
+    "Value": 50
+  },
+  "SelfHealthBarShow": true,
+  "Enable": false
+}

@@ -1,0 +1,18 @@
+{
+  "DrawMonsters": false,
+  "IconsOnMinimap": true,
+  "IconsOnLargeMap": true,
+  "SecondaryIconSize": {
+    "Value": 10
+  },
+  "HideSize": {
+    "Value": 1.0
+  },
+  "ZForText": {
+    "Value": -10.0
+  },
+  "DrawOnlyOnLargeMap": true,
+  "MultiThreading": false,
+  "DrawNotValid": true,
+  "Enable": false
+}

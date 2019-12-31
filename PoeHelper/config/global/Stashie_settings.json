@@ -1,0 +1,29 @@
+{
+  "AllStashNames": [],
+  "CustomFilterOptions": {},
+  "CustomRefillOptions": {},
+  "Settings": null,
+  "RequireHotkey": true,
+  "DropHotkey": {
+    "Value": 114
+  },
+  "ExtraDelay": {
+    "Value": 0
+  },
+  "BlockInput": false,
+  "VisitTabWhenDone": false,
+  "TabToVisitWhenDone": {
+    "Value": 0
+  },
+  "RefillCurrency": false,
+  "CurrencyStashTab": {
+    "Value": null,
+    "Index": 0
+  },
+  "AllowHaveMore": false,
+  "UseArrow": true,
+  "MouseSpeed": {
+    "Value": 10
+  },
+  "Enable": false
+}

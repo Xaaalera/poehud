@@ -1,0 +1,550 @@
+2019-12-31 15:40:43.650 +03:00 [Information] --------------- Start hud at 31.12.2019 15:40:43 ---------------
+2019-12-31 15:40:43.712 +03:00 [Information] PerfTimer =-> Create new offsets (33,5359 ms) Thread #[1]
+2019-12-31 15:40:43.712 +03:00 [Information] PerfTimer =-> Form Load (0,0023 ms) Thread #[1]
+2019-12-31 15:40:44.346 +03:00 [Information] PerfTimer =-> Load manual fonts (73,6802 ms) Thread #[1]
+2019-12-31 15:40:44.397 +03:00 [Information] PerfTimer =-> Build Font Texture (50,0584 ms) Thread #[1]
+2019-12-31 15:40:44.400 +03:00 [Information] PerfTimer =-> Init ImGui (177,0856 ms) Thread #[1]
+2019-12-31 15:40:44.449 +03:00 [Information] PerfTimer =-> Init ImGuiRender (250,6606 ms) Thread #[1]
+2019-12-31 15:40:44.502 +03:00 [Information] PerfTimer =-> Init SpriteRender (52,9607 ms) Thread #[1]
+2019-12-31 15:40:44.506 +03:00 [Information] PerfTimer =-> DX11 Load (453,3501 ms) Thread #[1]
+2019-12-31 15:40:45.087 +03:00 [Information] PerfTimer =-> Load files from memory (227,4138 ms) Thread #[1]
+2019-12-31 15:40:45.154 +03:00 [Information] PerfTimer =-> Plugin loader (12,6267 ms) Thread #[1]
+2019-12-31 15:40:45.830 +03:00 [Information] Pattern: Game State -> : Time: 5,194 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:40:45.830 +03:00 [Information] Pattern: Area change -> : Time: 5,7338 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:40:45.830 +03:00 [Information] Pattern: File Root -> : Time: 9,7959 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:40:50.173 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:40:52.167 +03:00 [Information] HUD loaded in 1690,7635 ms.
+2019-12-31 15:41:34.145 +03:00 [Information] --------------- Close hud at 31.12.2019 15:41:34 ---------------
+2019-12-31 15:42:38.319 +03:00 [Information] --------------- Start hud at 31.12.2019 15:42:38 ---------------
+2019-12-31 15:42:38.351 +03:00 [Information] PerfTimer =-> Create new offsets (5,5746 ms) Thread #[1]
+2019-12-31 15:42:38.351 +03:00 [Information] PerfTimer =-> Form Load (0,0017 ms) Thread #[1]
+2019-12-31 15:42:38.722 +03:00 [Information] PerfTimer =-> Load manual fonts (21,9863 ms) Thread #[1]
+2019-12-31 15:42:38.769 +03:00 [Information] PerfTimer =-> Build Font Texture (46,6382 ms) Thread #[1]
+2019-12-31 15:42:38.773 +03:00 [Information] PerfTimer =-> Init ImGui (79,3044 ms) Thread #[1]
+2019-12-31 15:42:38.804 +03:00 [Information] PerfTimer =-> Init ImGuiRender (113,8902 ms) Thread #[1]
+2019-12-31 15:42:38.822 +03:00 [Information] PerfTimer =-> Init SpriteRender (17,1225 ms) Thread #[1]
+2019-12-31 15:42:38.826 +03:00 [Information] PerfTimer =-> DX11 Load (249,4448 ms) Thread #[1]
+2019-12-31 15:42:39.293 +03:00 [Information] PerfTimer =-> Load files from memory (222,8292 ms) Thread #[1]
+2019-12-31 15:42:39.362 +03:00 [Information] PerfTimer =-> Plugin loader (18,9388 ms) Thread #[1]
+2019-12-31 15:42:40.054 +03:00 [Information] Pattern: Game State -> : Time: 2,2418 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:42:40.054 +03:00 [Information] Pattern: Area change -> : Time: 5,3541 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:42:40.054 +03:00 [Information] Pattern: File Root -> : Time: 6,4805 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:42:44.364 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\AdvancedTooltip. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\AdvancedUberLabLayout. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\DevTree. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\DPSMeter. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\EliteBar. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\ExileApiPlugins-master. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\HealthBars. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\IconsBuilder. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\ItemAlert. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\KillCounter. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\MapsExchange. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\MinimapIcons. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\MiscInformation. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\PassiveSkillTreePlanter. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\PickIt. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\PreloadAlert. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\Skill DPS. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\Stashie. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\TutorialTextures. (Dll should be like folder)
+2019-12-31 15:42:44.366 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\XPBar. (Dll should be like folder)
+2019-12-31 15:42:44.380 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:42:46.382 +03:00 [Information] HUD loaded in 1128,4878 ms.
+2019-12-31 15:44:04.078 +03:00 [Information] --------------- Close hud at 31.12.2019 15:44:04 ---------------
+2019-12-31 15:45:06.664 +03:00 [Information] --------------- Start hud at 31.12.2019 15:45:06 ---------------
+2019-12-31 15:45:06.695 +03:00 [Information] PerfTimer =-> Create new offsets (3,9198 ms) Thread #[1]
+2019-12-31 15:45:06.695 +03:00 [Information] PerfTimer =-> Form Load (0,0014 ms) Thread #[1]
+2019-12-31 15:45:07.040 +03:00 [Information] PerfTimer =-> Load manual fonts (18,3192 ms) Thread #[1]
+2019-12-31 15:45:07.080 +03:00 [Information] PerfTimer =-> Build Font Texture (39,8648 ms) Thread #[1]
+2019-12-31 15:45:07.083 +03:00 [Information] PerfTimer =-> Init ImGui (67,3874 ms) Thread #[1]
+2019-12-31 15:45:07.111 +03:00 [Information] PerfTimer =-> Init ImGuiRender (98,6005 ms) Thread #[1]
+2019-12-31 15:45:07.125 +03:00 [Information] PerfTimer =-> Init SpriteRender (14,4196 ms) Thread #[1]
+2019-12-31 15:45:07.130 +03:00 [Information] PerfTimer =-> DX11 Load (218,5569 ms) Thread #[1]
+2019-12-31 15:45:07.532 +03:00 [Information] PerfTimer =-> Load files from memory (176,3751 ms) Thread #[1]
+2019-12-31 15:45:07.793 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.828 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.828 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.829 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.830 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.841 +03:00 [Warning] 16 not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.865 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.865 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.866 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.866 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.867 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.867 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:07.997 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:45:08.154 +03:00 [Information] PerfTimer =-> @@@Tree Visitor Main (133,9021 ms) Thread #[11]
+2019-12-31 15:45:08.154 +03:00 [Information] PerfTimer =-> @@PoeFilterInit (154,7755 ms) Thread #[11]
+2019-12-31 15:45:09.409 +03:00 [Information] PerfTimer =-> Compile and load source plugin: TutorialTextures (1812,8996 ms) Thread #[9]
+2019-12-31 15:45:09.409 +03:00 [Information] PerfTimer =-> Compile and load source plugins (1815,5071 ms) Thread #[9]
+2019-12-31 15:45:09.537 +03:00 [Information] PerfTimer =-> Plugin loader (1961,9536 ms) Thread #[1]
+2019-12-31 15:45:09.580 +03:00 [Information] Pattern: Area change -> : Time: 3,5703 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:45:09.580 +03:00 [Information] Pattern: Game State -> : Time: 4,6462 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:45:09.580 +03:00 [Information] Pattern: File Root -> : Time: 6,4154 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:45:09.580 +03:00 [Information] Skip ExileApiPlugins-master for loading from source because file Errors.txt exists.
+2019-12-31 15:45:09.580 +03:00 [Information] EliteBar loaded in 121,1475 ms.
+2019-12-31 15:45:09.580 +03:00 [Information] ItemAlert loaded in 134,0889 ms.
+2019-12-31 15:45:09.580 +03:00 [Information] MiscInformation loaded in 152,6984 ms.
+2019-12-31 15:45:09.580 +03:00 [Information] AdvancedTooltip loaded in 164,5302 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] KillCounter loaded in 196,5277 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] HealthBars loaded in 196,9494 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] PassiveSkillTreePlanter loaded in 210,991 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] AdvancedUberLabLayout loaded in 222,799 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] MapsExchange loaded in 245,6572 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] IconsBuilder loaded in 268,249 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] Pickit loaded in 282,4071 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] DevTree loaded in 290,3832 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] DPSMeter loaded in 317,6964 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] Skill_DPS.Core loaded in 329,6076 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] MinimapIcons loaded in 349,0766 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] Stashie loaded in 413,4166 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] XPBar loaded in 433,093 ms.
+2019-12-31 15:45:09.581 +03:00 [Information] PreloadAlert loaded in 433,8062 ms.
+2019-12-31 15:45:10.423 +03:00 [Information] PassiveSkillTreePlanter -> Initialise time: 0,0841 ms.
+2019-12-31 15:45:10.423 +03:00 [Information] Skill_DPS.Core -> Initialise time: 0,0041 ms.
+2019-12-31 15:45:10.423 +03:00 [Information] PreloadAlert -> Initialise time: 1,5483 ms.
+2019-12-31 15:45:10.423 +03:00 [Information] MiscInformation -> Initialise time: 2,5949 ms.
+2019-12-31 15:45:10.423 +03:00 [Information] ItemAlert -> Initialise time: 1,1463 ms.
+2019-12-31 15:45:10.423 +03:00 [Information] XPBar -> Initialise time: 0,4219 ms.
+2019-12-31 15:45:10.521 +03:00 [Information] AdvancedUberLabLayout -> Initialise time: 94,2457 ms.
+2019-12-31 15:45:10.538 +03:00 [Information] Dev Tree -> Initialise time: 19,2479 ms.
+2019-12-31 15:45:10.538 +03:00 [Information] IconsBuilder -> Initialise time: 1,1266 ms.
+2019-12-31 15:45:11.423 +03:00 [Error] F:\hUD\PoeHelper\Plugins\Compiled\MapsExchange\images\ImagesAtlas.png not found.
+2019-12-31 15:45:12.524 +03:00 [Information] Loading new lab layout image from site
+2019-12-31 15:45:12.720 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\ExileApiPlugins-master. (Dll should be like folder)
+2019-12-31 15:45:14.416 +03:00 [Error] Not found any types in plugin F:\hUD\PoeHelper\Plugins\Source\TutorialTextures
+2019-12-31 15:45:14.544 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:45:18.738 +03:00 [Information] PassiveSkillTree: Write your skill tree url to txt file and place it to Builds folder.
+2019-12-31 15:45:18.738 +03:00 [Information] HUD loaded in 2966,7411 ms.
+2019-12-31 15:45:20.576 +03:00 [Error] AdvancedUberLabLayout Plugin: Error while cropping or saving image: В GDI+ возникла ошибка общего вида.
+2019-12-31 15:46:43.014 +03:00 [Error] Dev Tree -> System.Reflection.TargetParameterCountException: Несоответствие числа параметров.
+   в System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   в System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   в DevTree.DevPlugin.Debug(Object obj, Type type) в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 464
+2019-12-31 15:48:41.971 +03:00 [Error] skills is null or empty
+2019-12-31 15:48:42.922 +03:00 [Error] System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExileCore.GameController.GetUnderCornerMap() в F:\hUD\ExileApi\Core\GameController.cs:строка 222
+   в ExileCore.Shared.Cache.CachedValue`1.get_Value() в F:\hUD\ExileApi\Core\Shared\Cache\CachedValue.cs:строка 41
+   в ExileCore.GameController.Tick() в F:\hUD\ExileApi\Core\GameController.cs:строка 162
+2019-12-31 15:48:51.001 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:51.551 +03:00 [Error] EntityList -> Address is 0;
+2019-12-31 15:48:52.585 +03:00 [Error] Dev Tree, AreaChange -> System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в DevTree.DevPlugin.InitObjects() в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 103
+   в DevTree.DevPlugin.AreaChange(AreaInstance area) в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 88
+   в ExileCore.Shared.PluginWrapper.AreaChange(AreaInstance area) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 165
+2019-12-31 15:48:53.002 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:54.002 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:56.016 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:57.027 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:58.042 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:59.052 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:00.060 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:01.064 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:02.067 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:03.082 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:04.084 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:05.087 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:06.091 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:07.094 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:08.108 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:09.118 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:10.126 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:11.138 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:12.150 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:13.161 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:14.162 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:15.164 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:16.168 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:17.171 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:17.722 +03:00 [Information] Pattern: Game State -> : Time: 1,8803 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:49:17.722 +03:00 [Information] Pattern: Area change -> : Time: 2,8788 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:49:17.738 +03:00 [Information] Pattern: File Root -> : Time: 6,0033 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:49:18.336 +03:00 [Error] System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExileCore.GameController.GetUnderCornerMap() в F:\hUD\ExileApi\Core\GameController.cs:строка 222
+   в ExileCore.Shared.Cache.CachedValue`1.get_Value() в F:\hUD\ExileApi\Core\Shared\Cache\CachedValue.cs:строка 41
+   в ExileCore.GameController.Tick() в F:\hUD\ExileApi\Core\GameController.cs:строка 162
+2019-12-31 15:49:18.727 +03:00 [Error] ReadListPointer error result count: 25028526
+2019-12-31 15:49:18.727 +03:00 [Information] PerfTimer =-> Load files from memory (2001,1416 ms) Thread #[5]
+2019-12-31 15:49:18.882 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.906 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.907 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.907 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.907 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.913 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.916 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.916 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.917 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.917 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.918 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.918 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:18.952 +03:00 [Information] PerfTimer =-> @@@Tree Visitor Main (41,3348 ms) Thread #[26]
+2019-12-31 15:49:18.952 +03:00 [Information] PerfTimer =-> @@PoeFilterInit (42,7935 ms) Thread #[26]
+2019-12-31 15:49:18.959 +03:00 [Warning] 16 not supported for menu now. Ask developers to add this type.
+2019-12-31 15:49:19.736 +03:00 [Information] Skip ExileApiPlugins-master for loading from source because file Errors.txt exists.
+2019-12-31 15:49:19.786 +03:00 [Information] AdvancedUberLabLayout loaded in 53,4469 ms.
+2019-12-31 15:49:19.836 +03:00 [Information] DPSMeter loaded in 94,3167 ms.
+2019-12-31 15:49:19.836 +03:00 [Information] Skill_DPS.Core loaded in 98,7609 ms.
+2019-12-31 15:49:19.854 +03:00 [Information] KillCounter loaded in 106,4804 ms.
+2019-12-31 15:49:19.870 +03:00 [Information] DevTree loaded in 130,3746 ms.
+2019-12-31 15:49:19.870 +03:00 [Information] XPBar loaded in 131,8599 ms.
+2019-12-31 15:49:19.886 +03:00 [Information] PassiveSkillTreePlanter loaded in 152,8166 ms.
+2019-12-31 15:49:19.904 +03:00 [Information] MiscInformation loaded in 167,1726 ms.
+2019-12-31 15:49:19.919 +03:00 [Information] MapsExchange loaded in 176,8158 ms.
+2019-12-31 15:49:19.919 +03:00 [Information] Stashie loaded in 182,7298 ms.
+2019-12-31 15:49:19.919 +03:00 [Information] ItemAlert loaded in 182,9952 ms.
+2019-12-31 15:49:19.919 +03:00 [Information] EliteBar loaded in 183,4649 ms.
+2019-12-31 15:49:19.919 +03:00 [Information] AdvancedTooltip loaded in 184,2036 ms.
+2019-12-31 15:49:19.919 +03:00 [Information] HealthBars loaded in 185,5634 ms.
+2019-12-31 15:49:19.919 +03:00 [Information] Pickit loaded in 186,8836 ms.
+2019-12-31 15:49:19.969 +03:00 [Information] MinimapIcons loaded in 222,4386 ms.
+2019-12-31 15:49:19.969 +03:00 [Information] IconsBuilder loaded in 238,3019 ms.
+2019-12-31 15:49:20.035 +03:00 [Information] PreloadAlert loaded in 300,6337 ms.
+2019-12-31 15:49:20.425 +03:00 [Information] PerfTimer =-> Compile and load source plugin: TutorialTextures (1693,0784 ms) Thread #[24]
+2019-12-31 15:49:20.425 +03:00 [Information] PerfTimer =-> Compile and load source plugins (1693,6933 ms) Thread #[24]
+2019-12-31 15:49:20.435 +03:00 [Information] PerfTimer =-> Plugin loader (1705,1004 ms) Thread #[5]
+2019-12-31 15:49:21.437 +03:00 [Information] IconsBuilder -> Initialise time: 1,2536 ms.
+2019-12-31 15:49:21.437 +03:00 [Information] PassiveSkillTreePlanter -> Initialise time: 0,0029 ms.
+2019-12-31 15:49:21.437 +03:00 [Information] Skill_DPS.Core -> Initialise time: 0,0029 ms.
+2019-12-31 15:49:21.437 +03:00 [Information] PreloadAlert -> Initialise time: 1,0181 ms.
+2019-12-31 15:49:21.437 +03:00 [Information] ItemAlert -> Initialise time: 0,346 ms.
+2019-12-31 15:49:21.438 +03:00 [Error] System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DevTree.DevPlugin.InitObjects() в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 103
+   в DevTree.DevPlugin.Initialise() в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 63
+2019-12-31 15:49:21.438 +03:00 [Information] Dev Tree -> Initialise time: 2,5178 ms.
+2019-12-31 15:49:21.702 +03:00 [Information] Game not found
+2019-12-31 15:49:22.435 +03:00 [Error] F:\hUD\PoeHelper\Plugins\Compiled\MapsExchange\images\ImagesAtlas.png not found.
+2019-12-31 15:49:22.435 +03:00 [Error] DevTree cant add object to debug.
+2019-12-31 15:49:22.435 +03:00 [Error] Dev Tree cant add object to debug.
+2019-12-31 15:49:23.436 +03:00 [Error] MiscInformation, Initialise -> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MiscInformation.MiscInformation.OnEntityListWrapperOnPlayerUpdate(Object sender, Entity entity) в F:\hUD\PoeHelper\Plugins\Source\MiscInformation\MiscInformation.cs:строка 140
+   в MiscInformation.MiscInformation.Initialise() в F:\hUD\PoeHelper\Plugins\Source\MiscInformation\MiscInformation.cs:строка 125
+   в ExileCore.Shared.PluginWrapper.pluginInitialise() в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 131
+   в ExileCore.Shared.PluginWrapper.Initialise(GameController _gameController) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 115
+2019-12-31 15:49:23.436 +03:00 [Error] XPBar, Initialise -> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в XPBar.Core.Initialise() в F:\hUD\PoeHelper\Plugins\Source\XPBar\Core.cs:строка 125
+   в ExileCore.Shared.PluginWrapper.pluginInitialise() в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 131
+   в ExileCore.Shared.PluginWrapper.Initialise(GameController _gameController) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 115
+2019-12-31 15:49:23.436 +03:00 [Error] AdvancedUberLabLayout, Initialise -> System.IO.IOException: Процесс не может получить доступ к файлу "F:\hUD\PoeHelper\Plugins\Compiled\AdvancedUberLabLayout\CachedImages\2019-12-31_uber.jpg", так как этот файл используется другим процессом.
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalDelete(String path, Boolean checkHost)
+   в AdvancedUberLabLayout.AdvancedUberLabLayoutCore.DeleteOldImages() в F:\hUD\PoeHelper\Plugins\Source\AdvancedUberLabLayout\AdvancedUberLabLayoutCore.cs:строка 215
+   в AdvancedUberLabLayout.AdvancedUberLabLayoutCore.UpdateTime() в F:\hUD\PoeHelper\Plugins\Source\AdvancedUberLabLayout\AdvancedUberLabLayoutCore.cs:строка 104
+   в AdvancedUberLabLayout.AdvancedUberLabLayoutCore.Initialise() в F:\hUD\PoeHelper\Plugins\Source\AdvancedUberLabLayout\AdvancedUberLabLayoutCore.cs:строка 44
+   в ExileCore.Shared.PluginWrapper.pluginInitialise() в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 131
+   в ExileCore.Shared.PluginWrapper.Initialise(GameController _gameController) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 115
+2019-12-31 15:49:23.436 +03:00 [Error] Dev Tree, AreaChange -> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DevTree.DevPlugin.InitObjects() в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 103
+   в DevTree.DevPlugin.AreaChange(AreaInstance area) в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 87
+   в ExileCore.Shared.PluginWrapper.AreaChange(AreaInstance area) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 165
+2019-12-31 15:49:24.384 +03:00 [Information] --------------- Close hud at 31.12.2019 15:49:24 ---------------
+2019-12-31 15:50:44.392 +03:00 [Information] --------------- Start hud at 31.12.2019 15:50:44 ---------------
+2019-12-31 15:50:44.424 +03:00 [Information] PerfTimer =-> Create new offsets (4,8849 ms) Thread #[1]
+2019-12-31 15:50:44.424 +03:00 [Information] PerfTimer =-> Form Load (0,0017 ms) Thread #[1]
+2019-12-31 15:50:44.791 +03:00 [Information] PerfTimer =-> Load manual fonts (21,8238 ms) Thread #[1]
+2019-12-31 15:50:44.835 +03:00 [Information] PerfTimer =-> Build Font Texture (43,8195 ms) Thread #[1]
+2019-12-31 15:50:44.839 +03:00 [Information] PerfTimer =-> Init ImGui (76,1939 ms) Thread #[1]
+2019-12-31 15:50:44.871 +03:00 [Information] PerfTimer =-> Init ImGuiRender (111,4961 ms) Thread #[1]
+2019-12-31 15:50:44.887 +03:00 [Information] PerfTimer =-> Init SpriteRender (16,3063 ms) Thread #[1]
+2019-12-31 15:50:44.891 +03:00 [Information] PerfTimer =-> DX11 Load (242,6602 ms) Thread #[1]
+2019-12-31 15:50:45.359 +03:00 [Information] PerfTimer =-> Load files from memory (211,1242 ms) Thread #[1]
+2019-12-31 15:50:49.528 +03:00 [Warning] 16 not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:49.541 +03:00 [Information] PerfTimer =-> Compile and load source plugin: IconsBuilder (4113,0864 ms) Thread #[11]
+2019-12-31 15:50:49.570 +03:00 [Information] PerfTimer =-> Compile and load source plugin: DevTree (4142,7878 ms) Thread #[12]
+2019-12-31 15:50:49.591 +03:00 [Information] PerfTimer =-> Compile and load source plugin: MinimapIcons (4163,5061 ms) Thread #[9]
+2019-12-31 15:50:49.635 +03:00 [Information] PerfTimer =-> Compile and load source plugin: PreloadAlert (4206,7292 ms) Thread #[10]
+2019-12-31 15:50:49.955 +03:00 [Information] PerfTimer =-> Compile and load source plugin: DPSMeter (384,9181 ms) Thread #[12]
+2019-12-31 15:50:50.050 +03:00 [Information] PerfTimer =-> Compile and load source plugin: MiscInformation (459,1898 ms) Thread #[9]
+2019-12-31 15:50:50.071 +03:00 [Information] PerfTimer =-> Compile and load source plugin: Skill DPS (436,8569 ms) Thread #[10]
+2019-12-31 15:50:50.101 +03:00 [Information] PerfTimer =-> Compile and load source plugin: ItemAlert (560,4252 ms) Thread #[11]
+2019-12-31 15:50:50.385 +03:00 [Information] PerfTimer =-> Compile and load source plugin: EliteBar (429,8107 ms) Thread #[12]
+2019-12-31 15:50:50.508 +03:00 [Information] PerfTimer =-> Compile and load source plugin: KillCounter (407,1288 ms) Thread #[11]
+2019-12-31 15:50:50.536 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:50.538 +03:00 [Information] PerfTimer =-> Compile and load source plugin: PassiveSkillTreePlanter (487,8558 ms) Thread #[9]
+2019-12-31 15:50:50.714 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:50.715 +03:00 [Information] PerfTimer =-> Compile and load source plugin: Stashie (643,3953 ms) Thread #[10]
+2019-12-31 15:50:50.862 +03:00 [Information] PerfTimer =-> Compile and load source plugin: HealthBars (476,5405 ms) Thread #[12]
+2019-12-31 15:50:51.183 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.184 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.185 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.186 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.186 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.186 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.187 +03:00 [Information] PerfTimer =-> Compile and load source plugin: PickIt (648,0726 ms) Thread #[9]
+2019-12-31 15:50:51.188 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.189 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.190 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.190 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:50:51.191 +03:00 [Information] PerfTimer =-> Compile and load source plugin: MapsExchange (682,4789 ms) Thread #[11]
+2019-12-31 15:50:51.211 +03:00 [Information] PerfTimer =-> Compile and load source plugin: TutorialTextures (495,8169 ms) Thread #[10]
+2019-12-31 15:50:51.324 +03:00 [Information] PerfTimer =-> Compile and load source plugin: XPBar (462,2091 ms) Thread #[12]
+2019-12-31 15:50:51.324 +03:00 [Information] PerfTimer =-> Compile and load source plugins (5899,2118 ms) Thread #[12]
+2019-12-31 15:50:51.542 +03:00 [Information] PerfTimer =-> @@@Tree Visitor Main (239,9626 ms) Thread #[9]
+2019-12-31 15:50:51.542 +03:00 [Information] PerfTimer =-> @@PoeFilterInit (247,1911 ms) Thread #[9]
+2019-12-31 15:50:51.546 +03:00 [Information] PerfTimer =-> Plugin loader (6140,689 ms) Thread #[1]
+2019-12-31 15:50:51.605 +03:00 [Information] Pattern: Game State -> : Time: 2,3069 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:50:51.605 +03:00 [Information] Pattern: Area change -> : Time: 3,6263 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:50:51.605 +03:00 [Information] Pattern: File Root -> : Time: 7,2942 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:50:51.605 +03:00 [Information] IconsBuilder loaded in 4125,4814 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] DevTree loaded in 4155,3025 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] MinimapIcons loaded in 4176,0252 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] PreloadAlert loaded in 4219,6281 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] DPSMeter loaded in 4540,2608 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] MiscInformation loaded in 4635,3403 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] Skill_DPS.Core loaded in 4656,595 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] ItemAlert loaded in 4686,1117 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] EliteBar loaded in 4970,1384 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] KillCounter loaded in 5093,3132 ms.
+2019-12-31 15:50:51.605 +03:00 [Information] PassiveSkillTreePlanter loaded in 5123,2829 ms.
+2019-12-31 15:50:51.777 +03:00 [Information] Stashie loaded in 5300,0668 ms.
+2019-12-31 15:50:52.182 +03:00 [Information] HealthBars loaded in 5446,7672 ms.
+2019-12-31 15:50:52.187 +03:00 [Information] Pickit loaded in 5771,4356 ms.
+2019-12-31 15:50:52.191 +03:00 [Information] MapsExchange loaded in 5775,8804 ms.
+2019-12-31 15:50:52.334 +03:00 [Information] XPBar loaded in 5909,0535 ms.
+2019-12-31 15:50:52.351 +03:00 [Information] MiscInformation -> Initialise time: 3,2925 ms.
+2019-12-31 15:50:52.351 +03:00 [Information] IconsBuilder -> Initialise time: 4,8943 ms.
+2019-12-31 15:50:52.351 +03:00 [Information] Skill_DPS.Core -> Initialise time: 0,0774 ms.
+2019-12-31 15:50:52.351 +03:00 [Information] PassiveSkillTreePlanter -> Initialise time: 0,0032 ms.
+2019-12-31 15:50:52.351 +03:00 [Information] XPBar -> Initialise time: 0,4668 ms.
+2019-12-31 15:50:52.351 +03:00 [Information] PreloadAlert -> Initialise time: 1,7635 ms.
+2019-12-31 15:50:52.383 +03:00 [Information] Dev Tree -> Initialise time: 36,8288 ms.
+2019-12-31 15:50:52.548 +03:00 [Information] ItemAlert -> Initialise time: 203,4607 ms.
+2019-12-31 15:50:56.220 +03:00 [Error] Not found any types in plugin F:\hUD\PoeHelper\Plugins\Source\TutorialTextures
+2019-12-31 15:50:56.553 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:50:58.561 +03:00 [Information] HUD loaded in 7255,1828 ms.
+2019-12-31 15:51:00.544 +03:00 [Information] PassiveSkillTree: Write your skill tree url to txt file and place it to Builds folder.
+2019-12-31 15:51:49.579 +03:00 [Information] --------------- Close hud at 31.12.2019 15:51:49 ---------------
+2019-12-31 15:52:18.136 +03:00 [Information] --------------- Start hud at 31.12.2019 15:52:18 ---------------
+2019-12-31 15:52:18.166 +03:00 [Information] PerfTimer =-> Create new offsets (4,4315 ms) Thread #[1]
+2019-12-31 15:52:18.166 +03:00 [Information] PerfTimer =-> Form Load (0,0014 ms) Thread #[1]
+2019-12-31 15:52:18.529 +03:00 [Information] PerfTimer =-> Load manual fonts (24,3053 ms) Thread #[1]
+2019-12-31 15:52:18.571 +03:00 [Information] PerfTimer =-> Build Font Texture (41,1953 ms) Thread #[1]
+2019-12-31 15:52:18.574 +03:00 [Information] PerfTimer =-> Init ImGui (75,8643 ms) Thread #[1]
+2019-12-31 15:52:18.605 +03:00 [Information] PerfTimer =-> Init ImGuiRender (109,8501 ms) Thread #[1]
+2019-12-31 15:52:18.621 +03:00 [Information] PerfTimer =-> Init SpriteRender (16,0612 ms) Thread #[1]
+2019-12-31 15:52:18.626 +03:00 [Information] PerfTimer =-> DX11 Load (240,4845 ms) Thread #[1]
+2019-12-31 15:52:19.073 +03:00 [Information] PerfTimer =-> Load files from memory (219,1325 ms) Thread #[1]
+2019-12-31 15:52:19.206 +03:00 [Warning] 16 not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.331 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.391 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.392 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.392 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.393 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.403 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.404 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.405 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.406 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.406 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.406 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.435 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:52:19.604 +03:00 [Information] PerfTimer =-> @@@Tree Visitor Main (151,053 ms) Thread #[10]
+2019-12-31 15:52:19.604 +03:00 [Information] PerfTimer =-> @@PoeFilterInit (158,0452 ms) Thread #[10]
+2019-12-31 15:52:21.300 +03:00 [Information] PerfTimer =-> Compile and load source plugin: TutorialTextures (2141,2726 ms) Thread #[11]
+2019-12-31 15:52:21.301 +03:00 [Information] PerfTimer =-> Compile and load source plugins (2149,2314 ms) Thread #[11]
+2019-12-31 15:52:21.316 +03:00 [Information] PerfTimer =-> Plugin loader (2193,2756 ms) Thread #[1]
+2019-12-31 15:52:21.362 +03:00 [Information] Pattern: Game State -> : Time: 2,5882 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:52:21.362 +03:00 [Information] Pattern: Area change -> : Time: 5,2702 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:52:21.362 +03:00 [Information] Pattern: File Root -> : Time: 7,8731 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:52:21.362 +03:00 [Information] DevTree loaded in 53,2522 ms.
+2019-12-31 15:52:21.362 +03:00 [Information] DPSMeter loaded in 97,8363 ms.
+2019-12-31 15:52:21.362 +03:00 [Information] IconsBuilder loaded in 101,9661 ms.
+2019-12-31 15:52:21.362 +03:00 [Information] MinimapIcons loaded in 114,1154 ms.
+2019-12-31 15:52:21.362 +03:00 [Information] EliteBar loaded in 150,3941 ms.
+2019-12-31 15:52:21.362 +03:00 [Information] MiscInformation loaded in 157,2066 ms.
+2019-12-31 15:52:21.362 +03:00 [Information] ItemAlert loaded in 173,3593 ms.
+2019-12-31 15:52:21.362 +03:00 [Information] KillCounter loaded in 198,0189 ms.
+2019-12-31 15:52:21.363 +03:00 [Information] PassiveSkillTreePlanter loaded in 198,6391 ms.
+2019-12-31 15:52:21.363 +03:00 [Information] HealthBars loaded in 218,2903 ms.
+2019-12-31 15:52:21.363 +03:00 [Information] PreloadAlert loaded in 222,8544 ms.
+2019-12-31 15:52:21.363 +03:00 [Information] Skill_DPS.Core loaded in 241,2097 ms.
+2019-12-31 15:52:21.363 +03:00 [Information] MapsExchange loaded in 260,3838 ms.
+2019-12-31 15:52:21.363 +03:00 [Information] Pickit loaded in 272,8745 ms.
+2019-12-31 15:52:21.363 +03:00 [Information] Stashie loaded in 305,0767 ms.
+2019-12-31 15:52:21.363 +03:00 [Information] XPBar loaded in 320,0869 ms.
+2019-12-31 15:52:22.318 +03:00 [Information] XPBar -> Initialise time: 0,9164 ms.
+2019-12-31 15:52:22.318 +03:00 [Information] ItemAlert -> Initialise time: 1,2712 ms.
+2019-12-31 15:52:22.318 +03:00 [Information] Skill_DPS.Core -> Initialise time: 0,092 ms.
+2019-12-31 15:52:22.318 +03:00 [Information] IconsBuilder -> Initialise time: 1,787 ms.
+2019-12-31 15:52:22.318 +03:00 [Information] PassiveSkillTreePlanter -> Initialise time: 0,0035 ms.
+2019-12-31 15:52:22.318 +03:00 [Information] MiscInformation -> Initialise time: 2,2987 ms.
+2019-12-31 15:52:22.318 +03:00 [Information] PreloadAlert -> Initialise time: 1,7492 ms.
+2019-12-31 15:52:26.313 +03:00 [Error] Not found any types in plugin F:\hUD\PoeHelper\Plugins\Source\TutorialTextures
+2019-12-31 15:52:26.330 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:52:28.327 +03:00 [Information] HUD loaded in 3269,5581 ms.
+2019-12-31 15:52:29.334 +03:00 [Information] PassiveSkillTree: Write your skill tree url to txt file and place it to Builds folder.
+2019-12-31 15:53:06.193 +03:00 [Information] WTF ExileCore.Shared.Runner
+2019-12-31 15:53:17.173 +03:00 [Information] --------------- Close hud at 31.12.2019 15:53:17 ---------------
+2019-12-31 15:53:30.574 +03:00 [Information] --------------- Start hud at 31.12.2019 15:53:30 ---------------
+2019-12-31 15:53:30.606 +03:00 [Information] PerfTimer =-> Create new offsets (5,1462 ms) Thread #[1]
+2019-12-31 15:53:30.607 +03:00 [Information] PerfTimer =-> Form Load (0,0026 ms) Thread #[1]
+2019-12-31 15:53:30.998 +03:00 [Information] PerfTimer =-> Load manual fonts (22,6308 ms) Thread #[1]
+2019-12-31 15:53:31.045 +03:00 [Information] PerfTimer =-> Build Font Texture (46,9242 ms) Thread #[1]
+2019-12-31 15:53:31.049 +03:00 [Information] PerfTimer =-> Init ImGui (80,9152 ms) Thread #[1]
+2019-12-31 15:53:31.080 +03:00 [Information] PerfTimer =-> Init ImGuiRender (115,6989 ms) Thread #[1]
+2019-12-31 15:53:31.097 +03:00 [Information] PerfTimer =-> Init SpriteRender (16,5207 ms) Thread #[1]
+2019-12-31 15:53:31.102 +03:00 [Information] PerfTimer =-> DX11 Load (254,0687 ms) Thread #[1]
+2019-12-31 15:53:31.562 +03:00 [Information] PerfTimer =-> Load files from memory (212,4576 ms) Thread #[1]
+2019-12-31 15:53:31.700 +03:00 [Warning] 16 not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.826 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.847 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.847 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.848 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.848 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.916 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.917 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.918 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.918 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.918 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.918 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:31.949 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:53:32.181 +03:00 [Information] PerfTimer =-> @@@Tree Visitor Main (184,4186 ms) Thread #[11]
+2019-12-31 15:53:32.181 +03:00 [Information] PerfTimer =-> @@PoeFilterInit (194,0811 ms) Thread #[11]
+2019-12-31 15:53:33.749 +03:00 [Information] PerfTimer =-> Compile and load source plugin: TutorialTextures (2111,5448 ms) Thread #[10]
+2019-12-31 15:53:33.749 +03:00 [Information] PerfTimer =-> Compile and load source plugins (2114,4022 ms) Thread #[10]
+2019-12-31 15:53:33.766 +03:00 [Information] PerfTimer =-> Plugin loader (2156,3192 ms) Thread #[1]
+2019-12-31 15:53:33.814 +03:00 [Information] Pattern: Game State -> : Time: 2,3489 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:53:33.814 +03:00 [Information] Pattern: Area change -> : Time: 3,3104 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:53:33.814 +03:00 [Information] Pattern: File Root -> : Time: 6,4409 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:53:33.814 +03:00 [Information] DevTree loaded in 72,6007 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] IconsBuilder loaded in 93,5736 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] DPSMeter loaded in 97,2207 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] MinimapIcons loaded in 117,8021 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] ItemAlert loaded in 147,4763 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] KillCounter loaded in 168,8392 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] MiscInformation loaded in 170,881 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] PassiveSkillTreePlanter loaded in 209,3779 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] MapsExchange loaded in 228,5487 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] EliteBar loaded in 249,3712 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] Skill_DPS.Core loaded in 266,0013 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] PreloadAlert loaded in 286,3416 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] Pickit loaded in 298,9135 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] Stashie loaded in 330,524 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] XPBar loaded in 345,5406 ms.
+2019-12-31 15:53:33.814 +03:00 [Information] HealthBars loaded in 362,4376 ms.
+2019-12-31 15:53:34.768 +03:00 [Information] Skill_DPS.Core -> Initialise time: 0,1149 ms.
+2019-12-31 15:53:34.768 +03:00 [Information] PassiveSkillTreePlanter -> Initialise time: 0,0032 ms.
+2019-12-31 15:53:34.768 +03:00 [Information] MiscInformation -> Initialise time: 2,5187 ms.
+2019-12-31 15:53:34.768 +03:00 [Information] XPBar -> Initialise time: 0,519 ms.
+2019-12-31 15:53:34.768 +03:00 [Information] ItemAlert -> Initialise time: 0,5976 ms.
+2019-12-31 15:53:34.768 +03:00 [Information] IconsBuilder -> Initialise time: 1,5964 ms.
+2019-12-31 15:53:34.768 +03:00 [Information] PreloadAlert -> Initialise time: 1,5571 ms.
+2019-12-31 15:53:38.755 +03:00 [Error] Not found any types in plugin F:\hUD\PoeHelper\Plugins\Source\TutorialTextures
+2019-12-31 15:53:38.787 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:53:54.704 +03:00 [Information] --------------- Close hud at 31.12.2019 15:53:54 ---------------
+2019-12-31 15:55:07.448 +03:00 [Information] --------------- Start hud at 31.12.2019 15:55:07 ---------------
+2019-12-31 15:55:07.481 +03:00 [Information] PerfTimer =-> Create new offsets (5,735 ms) Thread #[1]
+2019-12-31 15:55:07.481 +03:00 [Information] PerfTimer =-> Form Load (0,0011 ms) Thread #[1]
+2019-12-31 15:55:07.867 +03:00 [Information] PerfTimer =-> Load manual fonts (23,1241 ms) Thread #[1]
+2019-12-31 15:55:07.910 +03:00 [Information] PerfTimer =-> Build Font Texture (43,2134 ms) Thread #[1]
+2019-12-31 15:55:07.915 +03:00 [Information] PerfTimer =-> Init ImGui (77,1004 ms) Thread #[1]
+2019-12-31 15:55:07.946 +03:00 [Information] PerfTimer =-> Init ImGuiRender (111,0111 ms) Thread #[1]
+2019-12-31 15:55:07.963 +03:00 [Information] PerfTimer =-> Init SpriteRender (16,9169 ms) Thread #[1]
+2019-12-31 15:55:07.967 +03:00 [Information] PerfTimer =-> DX11 Load (259,9296 ms) Thread #[1]
+2019-12-31 15:55:08.468 +03:00 [Information] PerfTimer =-> Load files from memory (239,6761 ms) Thread #[1]
+2019-12-31 15:55:08.600 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:08.608 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:08.609 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:08.609 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:08.609 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:08.609 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:08.610 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:08.620 +03:00 [Information] PerfTimer =-> Plugin loader (100,1799 ms) Thread #[1]
+2019-12-31 15:55:09.197 +03:00 [Information] Pattern: Game State -> : Time: 3,9878 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:55:09.197 +03:00 [Information] Pattern: Area change -> : Time: 5,9934 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:55:09.197 +03:00 [Information] Pattern: File Root -> : Time: 9,9209 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:55:09.606 +03:00 [Information] Stashie loaded in 69,2243 ms.
+2019-12-31 15:55:09.622 +03:00 [Information] Pickit loaded in 77,571 ms.
+2019-12-31 15:55:13.635 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:55:15.626 +03:00 [Information] HUD loaded in 1266,3984 ms.
+2019-12-31 15:55:49.162 +03:00 [Information] --------------- Close hud at 31.12.2019 15:55:49 ---------------
+2019-12-31 15:55:57.271 +03:00 [Information] --------------- Start hud at 31.12.2019 15:55:57 ---------------
+2019-12-31 15:55:57.298 +03:00 [Information] PerfTimer =-> Create new offsets (4,0966 ms) Thread #[1]
+2019-12-31 15:55:57.298 +03:00 [Information] PerfTimer =-> Form Load (0,0017 ms) Thread #[1]
+2019-12-31 15:55:57.610 +03:00 [Information] PerfTimer =-> Load manual fonts (19,6699 ms) Thread #[1]
+2019-12-31 15:55:57.650 +03:00 [Information] PerfTimer =-> Build Font Texture (39,756 ms) Thread #[1]
+2019-12-31 15:55:57.652 +03:00 [Information] PerfTimer =-> Init ImGui (67,9469 ms) Thread #[1]
+2019-12-31 15:55:57.680 +03:00 [Information] PerfTimer =-> Init ImGuiRender (98,7025 ms) Thread #[1]
+2019-12-31 15:55:57.694 +03:00 [Information] PerfTimer =-> Init SpriteRender (13,4973 ms) Thread #[1]
+2019-12-31 15:55:57.698 +03:00 [Information] PerfTimer =-> DX11 Load (202,2323 ms) Thread #[1]
+2019-12-31 15:55:58.081 +03:00 [Information] PerfTimer =-> Load files from memory (171,6705 ms) Thread #[1]
+2019-12-31 15:55:58.195 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:58.203 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:58.204 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:58.204 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:58.204 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:58.205 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:58.205 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:55:58.214 +03:00 [Information] PerfTimer =-> Plugin loader (89,7059 ms) Thread #[1]
+2019-12-31 15:55:58.889 +03:00 [Information] Pattern: Game State -> : Time: 2,3207 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:55:58.890 +03:00 [Information] Pattern: Area change -> : Time: 3,2653 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:55:58.890 +03:00 [Information] Pattern: File Root -> : Time: 7,4429 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:55:59.199 +03:00 [Information] Stashie loaded in 60,5687 ms.
+2019-12-31 15:55:59.217 +03:00 [Information] Pickit loaded in 68,2832 ms.
+2019-12-31 15:56:03.234 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:56:05.230 +03:00 [Information] HUD loaded in 1040,1739 ms.
+2019-12-31 15:56:05.888 +03:00 [Information] WTF ExileCore.Core
+2019-12-31 15:56:14.690 +03:00 [Information] WTF ExileCore.Core
+2019-12-31 15:56:27.543 +03:00 [Information] --------------- Close hud at 31.12.2019 15:56:27 ---------------
+2019-12-31 15:57:32.495 +03:00 [Information] --------------- Start hud at 31.12.2019 15:57:32 ---------------
+2019-12-31 15:57:32.528 +03:00 [Information] PerfTimer =-> Create new offsets (7,9042 ms) Thread #[1]
+2019-12-31 15:57:32.528 +03:00 [Information] PerfTimer =-> Form Load (0,0014 ms) Thread #[1]
+2019-12-31 15:57:32.865 +03:00 [Information] PerfTimer =-> Load manual fonts (18,6344 ms) Thread #[1]
+2019-12-31 15:57:32.904 +03:00 [Information] PerfTimer =-> Build Font Texture (39,4419 ms) Thread #[1]
+2019-12-31 15:57:32.907 +03:00 [Information] PerfTimer =-> Init ImGui (66,971 ms) Thread #[1]
+2019-12-31 15:57:32.933 +03:00 [Information] PerfTimer =-> Init ImGuiRender (97,3747 ms) Thread #[1]
+2019-12-31 15:57:32.946 +03:00 [Information] PerfTimer =-> Init SpriteRender (12,9915 ms) Thread #[1]
+2019-12-31 15:57:32.951 +03:00 [Information] PerfTimer =-> DX11 Load (207,5674 ms) Thread #[1]
+2019-12-31 15:57:33.362 +03:00 [Information] PerfTimer =-> Load files from memory (186,813 ms) Thread #[1]
+2019-12-31 15:57:33.501 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.501 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.502 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.502 +03:00 [Warning] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.562 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.562 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.563 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.563 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.563 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.563 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.594 +03:00 [Warning] 16 not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.653 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.676 +03:00 [Warning]  not supported for menu now. Ask developers to add this type.
+2019-12-31 15:57:33.841 +03:00 [Information] PerfTimer =-> @@@Tree Visitor Main (133,7205 ms) Thread #[12]
+2019-12-31 15:57:33.841 +03:00 [Information] PerfTimer =-> @@PoeFilterInit (138,5204 ms) Thread #[12]
+2019-12-31 15:57:33.844 +03:00 [Information] PerfTimer =-> Plugin loader (434,5701 ms) Thread #[1]
+2019-12-31 15:57:34.157 +03:00 [Information] Pattern: Area change -> : Time: 3,4101 ms. Offset:[9544504] Started searching offset with:9430000
+2019-12-31 15:57:34.158 +03:00 [Information] Pattern: Game State -> : Time: 2,2996 ms. Offset:[1307896] Started searching offset with:1240000
+2019-12-31 15:57:34.158 +03:00 [Information] Pattern: File Root -> : Time: 6,6634 ms. Offset:[14173764] Started searching offset with:13930000
+2019-12-31 15:57:34.485 +03:00 [Information] XPBar loaded in 61,0177 ms.
+2019-12-31 15:57:34.503 +03:00 [Information] AdvancedTooltip loaded in 64,7 ms.
+2019-12-31 15:57:34.503 +03:00 [Information] MapsExchange loaded in 81,219 ms.
+2019-12-31 15:57:34.551 +03:00 [Information] DevTree loaded in 115,5564 ms.
+2019-12-31 15:57:34.567 +03:00 [Information] HealthBars loaded in 132,7587 ms.
+2019-12-31 15:57:34.567 +03:00 [Information] EliteBar loaded in 135,1155 ms.
+2019-12-31 15:57:34.567 +03:00 [Information] Pickit loaded in 142,2761 ms.
+2019-12-31 15:57:34.585 +03:00 [Information] DPSMeter loaded in 161,2862 ms.
+2019-12-31 15:57:34.601 +03:00 [Information] MinimapIcons loaded in 165,8439 ms.
+2019-12-31 15:57:34.617 +03:00 [Information] IconsBuilder loaded in 182,0178 ms.
+2019-12-31 15:57:34.617 +03:00 [Information] KillCounter loaded in 190,2622 ms.
+2019-12-31 15:57:34.649 +03:00 [Information] MiscInformation loaded in 217,3636 ms.
+2019-12-31 15:57:34.667 +03:00 [Information] ItemAlert loaded in 229,2276 ms.
+2019-12-31 15:57:34.667 +03:00 [Information] PassiveSkillTreePlanter loaded in 233,4595 ms.
+2019-12-31 15:57:34.682 +03:00 [Information] Stashie loaded in 255,6417 ms.
+2019-12-31 15:57:34.748 +03:00 [Information] PreloadAlert loaded in 318,3116 ms.
+2019-12-31 15:57:34.764 +03:00 [Information] Skill_DPS.Core loaded in 338,9469 ms.
+2019-12-31 15:57:34.780 +03:00 [Information] MiscInformation -> Initialise time: 2,1436 ms.
+2019-12-31 15:57:34.780 +03:00 [Information] PassiveSkillTreePlanter -> Initialise time: 1,955 ms.
+2019-12-31 15:57:34.780 +03:00 [Information] Skill_DPS.Core -> Initialise time: 0,0035 ms.
+2019-12-31 15:57:34.780 +03:00 [Information] XPBar -> Initialise time: 0,4686 ms.
+2019-12-31 15:57:34.780 +03:00 [Information] PreloadAlert -> Initialise time: 1,5762 ms.
+2019-12-31 15:57:34.780 +03:00 [Information] IconsBuilder -> Initialise time: 1,2328 ms.
+2019-12-31 15:57:34.846 +03:00 [Information] ItemAlert -> Initialise time: 66,861 ms.
+2019-12-31 15:57:38.859 +03:00 [Information] Resize from: {X=0,Y=0,Width=1584,Height=861} to {X=0,Y=0,Width=1920,Height=1080}
+2019-12-31 15:57:40.848 +03:00 [Information] HUD loaded in 1423,2906 ms.
+2019-12-31 15:57:43.656 +03:00 [Information] PassiveSkillTree: Write your skill tree url to txt file and place it to Builds folder.
+2019-12-31 15:58:17.889 +03:00 [Information] Pickit -> Initialise time: 8,6546 ms.
+2019-12-31 15:58:22.229 +03:00 [Information] Error pick it stop after time limit 2000 ms
+2019-12-31 16:00:34.466 +03:00 [Information] --------------- Close hud at 31.12.2019 16:00:34 ---------------

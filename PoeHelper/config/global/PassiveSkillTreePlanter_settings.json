@@ -1,0 +1,20 @@
+{
+  "PickedBorderWidth": {
+    "Value": 1
+  },
+  "UnpickedBorderWidth": {
+    "Value": 3
+  },
+  "WrongPickedBorderWidth": {
+    "Value": 3
+  },
+  "PickedBorderColor": "808080ff",
+  "UnpickedBorderColor": "008000ff",
+  "WrongPickedBorderColor": "ff0000ff",
+  "LineWidth": {
+    "Value": 3
+  },
+  "LineColor": "00ff0032",
+  "SelectedURLFile": "",
+  "Enable": true
+}

@@ -1,0 +1,101 @@
+2019-12-31 15:42:44.364 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\AdvancedTooltip. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\AdvancedUberLabLayout. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\DevTree. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\DPSMeter. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\EliteBar. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\ExileApiPlugins-master. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\HealthBars. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\IconsBuilder. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\ItemAlert. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\KillCounter. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\MapsExchange. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\MinimapIcons. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\MiscInformation. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\PassiveSkillTreePlanter. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\PickIt. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\PreloadAlert. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\Skill DPS. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\Stashie. (Dll should be like folder)
+2019-12-31 15:42:44.365 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\TutorialTextures. (Dll should be like folder)
+2019-12-31 15:42:44.366 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\XPBar. (Dll should be like folder)
+2019-12-31 15:45:11.423 +03:00 [Error] F:\hUD\PoeHelper\Plugins\Compiled\MapsExchange\images\ImagesAtlas.png not found.
+2019-12-31 15:45:12.720 +03:00 [Error] Not found plugin dll in F:\hUD\PoeHelper\Plugins\Compiled\ExileApiPlugins-master. (Dll should be like folder)
+2019-12-31 15:45:14.416 +03:00 [Error] Not found any types in plugin F:\hUD\PoeHelper\Plugins\Source\TutorialTextures
+2019-12-31 15:45:20.576 +03:00 [Error] AdvancedUberLabLayout Plugin: Error while cropping or saving image: В GDI+ возникла ошибка общего вида.
+2019-12-31 15:46:43.014 +03:00 [Error] Dev Tree -> System.Reflection.TargetParameterCountException: Несоответствие числа параметров.
+   в System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   в System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   в DevTree.DevPlugin.Debug(Object obj, Type type) в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 464
+2019-12-31 15:48:41.971 +03:00 [Error] skills is null or empty
+2019-12-31 15:48:42.922 +03:00 [Error] System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExileCore.GameController.GetUnderCornerMap() в F:\hUD\ExileApi\Core\GameController.cs:строка 222
+   в ExileCore.Shared.Cache.CachedValue`1.get_Value() в F:\hUD\ExileApi\Core\Shared\Cache\CachedValue.cs:строка 41
+   в ExileCore.GameController.Tick() в F:\hUD\ExileApi\Core\GameController.cs:строка 162
+2019-12-31 15:48:51.001 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:51.551 +03:00 [Error] EntityList -> Address is 0;
+2019-12-31 15:48:52.585 +03:00 [Error] Dev Tree, AreaChange -> System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в DevTree.DevPlugin.InitObjects() в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 103
+   в DevTree.DevPlugin.AreaChange(AreaInstance area) в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 88
+   в ExileCore.Shared.PluginWrapper.AreaChange(AreaInstance area) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 165
+2019-12-31 15:48:53.002 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:54.002 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:56.016 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:57.027 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:58.042 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:48:59.052 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:00.060 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:01.064 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:02.067 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:03.082 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:04.084 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:05.087 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:06.091 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:07.094 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:08.108 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:09.118 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:10.126 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:11.138 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:12.150 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:13.161 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:14.162 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:15.164 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:16.168 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:17.171 +03:00 [Error] SkillBar.Children is null or empty. Check offsets
+2019-12-31 15:49:18.336 +03:00 [Error] System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExileCore.GameController.GetUnderCornerMap() в F:\hUD\ExileApi\Core\GameController.cs:строка 222
+   в ExileCore.Shared.Cache.CachedValue`1.get_Value() в F:\hUD\ExileApi\Core\Shared\Cache\CachedValue.cs:строка 41
+   в ExileCore.GameController.Tick() в F:\hUD\ExileApi\Core\GameController.cs:строка 162
+2019-12-31 15:49:18.727 +03:00 [Error] ReadListPointer error result count: 25028526
+2019-12-31 15:49:21.438 +03:00 [Error] System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DevTree.DevPlugin.InitObjects() в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 103
+   в DevTree.DevPlugin.Initialise() в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 63
+2019-12-31 15:49:22.435 +03:00 [Error] F:\hUD\PoeHelper\Plugins\Compiled\MapsExchange\images\ImagesAtlas.png not found.
+2019-12-31 15:49:22.435 +03:00 [Error] DevTree cant add object to debug.
+2019-12-31 15:49:22.435 +03:00 [Error] Dev Tree cant add object to debug.
+2019-12-31 15:49:23.436 +03:00 [Error] MiscInformation, Initialise -> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MiscInformation.MiscInformation.OnEntityListWrapperOnPlayerUpdate(Object sender, Entity entity) в F:\hUD\PoeHelper\Plugins\Source\MiscInformation\MiscInformation.cs:строка 140
+   в MiscInformation.MiscInformation.Initialise() в F:\hUD\PoeHelper\Plugins\Source\MiscInformation\MiscInformation.cs:строка 125
+   в ExileCore.Shared.PluginWrapper.pluginInitialise() в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 131
+   в ExileCore.Shared.PluginWrapper.Initialise(GameController _gameController) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 115
+2019-12-31 15:49:23.436 +03:00 [Error] XPBar, Initialise -> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в XPBar.Core.Initialise() в F:\hUD\PoeHelper\Plugins\Source\XPBar\Core.cs:строка 125
+   в ExileCore.Shared.PluginWrapper.pluginInitialise() в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 131
+   в ExileCore.Shared.PluginWrapper.Initialise(GameController _gameController) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 115
+2019-12-31 15:49:23.436 +03:00 [Error] AdvancedUberLabLayout, Initialise -> System.IO.IOException: Процесс не может получить доступ к файлу "F:\hUD\PoeHelper\Plugins\Compiled\AdvancedUberLabLayout\CachedImages\2019-12-31_uber.jpg", так как этот файл используется другим процессом.
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalDelete(String path, Boolean checkHost)
+   в AdvancedUberLabLayout.AdvancedUberLabLayoutCore.DeleteOldImages() в F:\hUD\PoeHelper\Plugins\Source\AdvancedUberLabLayout\AdvancedUberLabLayoutCore.cs:строка 215
+   в AdvancedUberLabLayout.AdvancedUberLabLayoutCore.UpdateTime() в F:\hUD\PoeHelper\Plugins\Source\AdvancedUberLabLayout\AdvancedUberLabLayoutCore.cs:строка 104
+   в AdvancedUberLabLayout.AdvancedUberLabLayoutCore.Initialise() в F:\hUD\PoeHelper\Plugins\Source\AdvancedUberLabLayout\AdvancedUberLabLayoutCore.cs:строка 44
+   в ExileCore.Shared.PluginWrapper.pluginInitialise() в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 131
+   в ExileCore.Shared.PluginWrapper.Initialise(GameController _gameController) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 115
+2019-12-31 15:49:23.436 +03:00 [Error] Dev Tree, AreaChange -> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DevTree.DevPlugin.InitObjects() в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 103
+   в DevTree.DevPlugin.AreaChange(AreaInstance area) в F:\hUD\PoeHelper\Plugins\Source\DevTree\DevTree.cs:строка 87
+   в ExileCore.Shared.PluginWrapper.AreaChange(AreaInstance area) в F:\hUD\ExileApi\Core\Shared\PluginWrapper.cs:строка 165
+2019-12-31 15:50:56.220 +03:00 [Error] Not found any types in plugin F:\hUD\PoeHelper\Plugins\Source\TutorialTextures
+2019-12-31 15:52:26.313 +03:00 [Error] Not found any types in plugin F:\hUD\PoeHelper\Plugins\Source\TutorialTextures
+2019-12-31 15:53:38.755 +03:00 [Error] Not found any types in plugin F:\hUD\PoeHelper\Plugins\Source\TutorialTextures
